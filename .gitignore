@@ -24,8 +24,8 @@
 *.mod
 *.smod
 
-#
- Compiled Static libraries
+
+# Compiled Static libraries
 *.lai
 *.la
 *.a
@@ -36,3 +36,11 @@
 *.exe
 *.out
 *.app
+
+
+*.ipch
+*.pdb
+*.ilk
+*.suo
+*.opendb
+*.db
